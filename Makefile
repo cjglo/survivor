@@ -1,3 +1,3 @@
 
 clean: 
-	rm *.out *.gch
+	rm *.out *.gch *.class
